@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slsantosjr
-- 👀 I’m interested in learning code and change my career patch
-- 🌱 I’m currently learning HTM + SQL + Python
+- 👀 I’m interested in learning code and change my career path
+- 🌱 I’m currently learning HTML + CSS + JavaScript
 - 💞️ I’m looking to collaborate on webdevelopment, database and datascience projects
 - 📫 How to reach me receiver_email = "slsantosjr@gmail.com"
 
