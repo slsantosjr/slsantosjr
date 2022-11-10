@@ -34,9 +34,9 @@ I'm looking to be a fullstack dev! I'm studying with TechAcademy from Starse and
 Technology enthusiast, love to learn, teach and to facilitate people lives.
 
 ### Last videos:
-- [Floripa a Madre Paulina de MTB](https://www.youtube.com/watch?v=HXaXaDCnaD0)<br/>
-- [Trilha da Pedrita](https://www.youtube.com/watch?v=42cFBOR6y2s)<br/>
-- [Trilha do Travessão](https://www.youtube.com/watch?v=rM8l4sTZ7_w)<br/>
+- [Coming soon](https://www.youtube.com/channel/UCmmRzr-5SlUQyTn4ly5QYEg)<br/>
+- [Entendendo o livro Clean Code](https://www.youtube.com/watch?v=aEPn7VV45kU)<br/>
+- [Porque as BIG TECHS estão parando de contratar?](https://www.youtube.com/watch?v=F6wJ8vYmeVE)<br/>
 - [Projeto Technology Enterpreunership](https://www.youtube.com/watch?v=6RYIf4iXF1g)<br/>
 
 
