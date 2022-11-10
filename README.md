@@ -1,4 +1,4 @@
-Hello, I’m @Sergio Santos and I'm looking to be a fullstack dev! I'm studying with TechAcademy from Starse and Floripa Mais Tech from ACATE / PMF / SESI-SENAI. Below some stacks that I'm learning and my skills.
+Hello, I’m @Sergio Santos and I'm looking to be a fullstack dev! I'm studying with TechAcademy from Starse and Floripa Mais Tech from ACATE / PMF / SESI-SENAI. Below are some of the stacks that I'm learning and my skills.
 
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.lupaprojetos.com/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCmmRzr-5SlUQyTn4ly5QYEg)
