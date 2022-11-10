@@ -31,7 +31,7 @@ I'm looking to be a fullstack dev! I'm studying with TechAcademy from Starse and
   <img align="center" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por facilitar a vida das pessoas.
+Technology enthusiast, love to learn, teach and to facilitate people lives.
 
 ### Últimos videos:
 - [Floripa a Madre Paulina de MTB](https://www.youtube.com/watch?v=HXaXaDCnaD0)<br/>
