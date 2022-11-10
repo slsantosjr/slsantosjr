@@ -20,7 +20,7 @@ I'm looking to be a fullstack dev! I'm studying with TechAcademy from Starse and
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCz3p8vPGabf6HEJSVzhMy6g)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/slsantosjr)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,7 +33,7 @@ I'm looking to be a fullstack dev! I'm studying with TechAcademy from Starse and
 
 Technology enthusiast, love to learn, teach and to facilitate people lives.
 
-### Últimos videos:
+### Last videos:
 - [Floripa a Madre Paulina de MTB](https://www.youtube.com/watch?v=HXaXaDCnaD0)<br/>
 - [Trilha da Pedrita](https://www.youtube.com/watch?v=42cFBOR6y2s)<br/>
 - [Trilha do Travessão](https://www.youtube.com/watch?v=rM8l4sTZ7_w)<br/>
