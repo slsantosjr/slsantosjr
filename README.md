@@ -11,7 +11,7 @@ I'm looking to be a fullstack dev! I'm studying with TechAcademy from Starse and
 
 👀 I’m interested to improve my learning in code and change my career path
 
-🌱 I’m currently learning HTML + CSS + JavaScript
+🌱 I’m currently learning HTML + CSS + JavaScript + MySQL + PostgreeSQL
 
 💞️ I’m looking to collaborate on webdevelopment projects to learn more, if you have any project for a beginer, let me know!
 
