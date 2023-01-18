@@ -7,8 +7,6 @@ I'm looking to be a fullstack dev! I'm studying with TechAcademy from Starse and
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCmmRzr-5SlUQyTn4ly5QYEg)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slsantosjr/)
 
-![Slsantosjr GitHub stats](https://github-readme-stats.vercel.app/api?username=slsantosjr&show_icons=true&theme=dracula&count_private=true)
-
 👀 I’m interested to improve my learning in code and change my career path
 
 🌱 I’m currently learning HTML + CSS + JavaScript + MySQL + PostgreeSQL
