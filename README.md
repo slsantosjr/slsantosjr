@@ -9,7 +9,7 @@ I'm looking to be a fullstack dev! I'm studying with TechAcademy from Starse and
 
 <div>
 <a href="https://github.com/slsantosjr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?slsantosjr&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Sergio_Luiz_dos_Santos_Junior&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slsantosjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
