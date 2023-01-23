@@ -7,6 +7,12 @@ I'm looking to be a fullstack dev! I'm studying with TechAcademy from Starse and
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCmmRzr-5SlUQyTn4ly5QYEg)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slsantosjr/)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=slsantosjr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Sergio Luiz dos Santos Junior github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slsantosjr&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+![Contribution](https://activity-graph.herokuapp.com/graph?username=slsantosjr&theme=gotham&hide_border=true&area=true)
+
 
 👀 I’m interested to improve my learning in code and change my career path
 
