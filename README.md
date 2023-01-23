@@ -11,7 +11,7 @@ I'm looking to be a fullstack dev! I'm studying with TechAcademy from Starse and
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=slsantosjr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Sergio Luiz dos Santos Junior github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slsantosjr&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-![Contribution](https://activity-graph.herokuapp.com/graph?username=slsantosjr&theme=gotham&hide_border=true&area=true)
+[![Contribution](https://activity-graph.herokuapp.com/graph?username=slsantosjr&theme=gotham&hide_border=true&area=true)
 
 
 👀 I’m interested to improve my learning in code and change my career path
