@@ -10,7 +10,7 @@ I'm looking to be a fullstack dev! I'm studying with TechAcademy from Starse and
 <div>
 <a href="https://github.com/slsantosjr">
 [![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=slsantosjr&show_icons=true&theme=radical)
-[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=slsantosjr&show_icons=true&theme=transparent)
+[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=slsantosjr)](https://github.com/slsantosjr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slsantosjr)](https://github.com/slsantosjr/github-readme-stats)
 </div>
 
