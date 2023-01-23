@@ -8,8 +8,6 @@ I'm looking to be a fullstack dev! I'm studying with TechAcademy from Starse and
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slsantosjr/)
 
 <div>
-<a href="https://github.com/slsantosjr">
-[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=slsantosjr&show_icons=true&theme=radical)
 [![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=slsantosjr)](https://github.com/slsantosjr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slsantosjr)](https://github.com/slsantosjr/github-readme-stats)
 </div>
