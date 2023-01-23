@@ -9,8 +9,9 @@ I'm looking to be a fullstack dev! I'm studying with TechAcademy from Starse and
 
 <div>
 <a href="https://github.com/slsantosjr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?slsantosjr&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=slsantosjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=slsantosjr&show_icons=true&theme=radical)
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=slsantosjr&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slsantosjr)](https://github.com/slsantosjr/github-readme-stats)
 </div>
 
 👀 I’m interested to improve my learning in code and change my career path
